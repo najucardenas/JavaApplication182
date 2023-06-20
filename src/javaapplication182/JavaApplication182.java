@@ -17,10 +17,10 @@ public class JavaApplication182 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-       /*ConTem temperatura=new ConTem();
+      ConTem temperatura=new ConTem();
         temperatura.comTem1();
         AreaRec rec=new AreaRec();
-        rec.arearc();*/
+        rec.arearc();
        AreaCir cir=new AreaCir();
        cir.arearc();
        
